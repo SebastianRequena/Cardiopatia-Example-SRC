@@ -1,0 +1,1 @@
+Union de DF relacionados a enfermedades al corazón, posterior depuracion de datos para poder analizarlos mediante procesos de Machine Learning, luego de una modelacion, graficar cuales son las columnas con mayor relacion de enfermedades relacionadas al corazón.
